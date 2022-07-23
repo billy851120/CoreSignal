@@ -8,12 +8,14 @@ CoreSignal聲藝 電商網站
 <img width="30%" src="https://github.com/billy851120/CoreSignal/blob/main/material/logo/Group%201.png" alt="">
 
 
+網頁設計
+----------------------------------------------------------------------------------------------------------------
+
+乾淨簡約風格的版面設計，手刻CSS切版和RWD響應式設計，並使用Sass模組化管理，套用Bootstrap框架，且自定義框架設定，針對不同的細節呈現更好的瀏覽畫面，最後在使用JavaScript操作DOM，製造出簡易的網頁互動效果。
+
 使用技術
 ----------------------------------------------------------------------------------------------------------------
-### 2022/04/20 小專題 
-手刻CSS切版和RWD響應式設計，並使用Sass模組化管理，套用Bootstrap框架，且自定義框架設定，針對不同的細節呈現更好的瀏覽畫面，最後在使用JavaScript操作DOM，製造出簡易的網頁互動效果。
 
-### 前端
 * HTML
 * CSS
 * JavaScript
@@ -21,6 +23,7 @@ CoreSignal聲藝 電商網站
 * Sass/Scss
 * Node.js
 * npm套件管理
+
 
 ![gif](https://github.com/billy851120/CoreSignal/blob/main/material/7vgoy-bdsln.gif)
 
