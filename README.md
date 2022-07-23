@@ -24,6 +24,5 @@ CoreSignal聲藝 電商網站
 * Node.js
 * npm套件管理
 
-
 ![gif](https://github.com/billy851120/CoreSignal/blob/main/material/7vgoy-bdsln.gif)
 
