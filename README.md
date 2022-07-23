@@ -8,38 +8,19 @@ CoreSignal聲藝 電商網站
 <img width="30%" src="https://github.com/billy851120/CoreSignal/blob/main/material/logo/Group%201.png" alt="">
 
 
-功能介紹 :
-----------------------------------------------------------------------------------------------------------------
-
-### 前台
-1. 會員註冊、會員登入登出
-2. 商品列表頁、商品瀏覽頁、商品追蹤
-3. 加入購物車、收藏商品、訂單資訊
-4. RWD響應式設計
-<img width="75%" src="https://github.com/billy851120/FunctionPop/blob/main/img/b3y0u-xjpgn.gif" alt="">
-
-
-
-
-
-
-
-
-
-
-
 使用技術
 ----------------------------------------------------------------------------------------------------------------
+### 2022/04/20 小專題 
+手刻CSS切版，並使用Sass模組化管理，套用Bootstrap框架，且自定義框架設定，針對不同的細節呈現更好的瀏覽畫面，最後在使用JavaScript操作DOM，製造出簡易的網頁互動效果。
+
 ### 前端
 * HTML
 * CSS
 * JavaScript
 * Bootstrap
 * Sass/Scss
-* Ajax
-* RESTful API
-
-### 後端
 * Node.js
-* Express
-* MySQL
+* npm套件管理
+
+<img width="75%" src="https://github.com/billy851120/FunctionPop/blob/main/img/b3y0u-xjpgn.gif" alt="">
+
