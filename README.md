@@ -11,7 +11,7 @@ CoreSignal聲藝 電商網站
 使用技術
 ----------------------------------------------------------------------------------------------------------------
 ### 2022/04/20 小專題 
-手刻CSS切版，並使用Sass模組化管理，套用Bootstrap框架，且自定義框架設定，針對不同的細節呈現更好的瀏覽畫面，最後在使用JavaScript操作DOM，製造出簡易的網頁互動效果。
+手刻CSS切版和RWD響應式設計，並使用Sass模組化管理，套用Bootstrap框架，且自定義框架設定，針對不同的細節呈現更好的瀏覽畫面，最後在使用JavaScript操作DOM，製造出簡易的網頁互動效果。
 
 ### 前端
 * HTML
@@ -22,5 +22,5 @@ CoreSignal聲藝 電商網站
 * Node.js
 * npm套件管理
 
-<img width="75%" src="https://github.com/billy851120/FunctionPop/blob/main/img/b3y0u-xjpgn.gif" alt="">
+![gif](https://github.com/billy851120/CoreSignal/blob/main/material/7vgoy-bdsln.gif)
 
